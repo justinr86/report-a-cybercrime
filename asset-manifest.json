@@ -1,0 +1,26 @@
+{
+  "files": {
+    "i18n-0.js": "/i18n-0.a19305643a5f8620953e.bundle.js",
+    "i18n-0.js.map": "/i18n-0.a19305643a5f8620953e.bundle.js.map",
+    "i18n-1.js": "/i18n-1.a19305643a5f8620953e.bundle.js",
+    "i18n-1.js.map": "/i18n-1.a19305643a5f8620953e.bundle.js.map",
+    "main.js": "/main.a19305643a5f8620953e.bundle.js",
+    "main.js.map": "/main.a19305643a5f8620953e.bundle.js.map",
+    "runtime~main.js": "/runtime~main.a19305643a5f8620953e.bundle.js",
+    "runtime~main.js.map": "/runtime~main.a19305643a5f8620953e.bundle.js.map",
+    "vendors~main.js": "/vendors~main.a19305643a5f8620953e.bundle.js",
+    "vendors~main.js.map": "/vendors~main.a19305643a5f8620953e.bundle.js.map",
+    "iframe.html": "/iframe.html",
+    "precache-manifest.5aa283fb3b8a2fb9f2045025791706a1.js": "/precache-manifest.5aa283fb3b8a2fb9f2045025791706a1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/sig-blk-en.svg": "/static/media/sig-blk-en.26c1aa4d.svg",
+    "static/media/sig-blk-fr.svg": "/static/media/sig-blk-fr.27587b10.svg",
+    "static/media/wmms-blk.svg": "/static/media/wmms-blk.c4cb91c9.svg",
+    "vendors~main.a19305643a5f8620953e.bundle.js.LICENSE.txt": "/vendors~main.a19305643a5f8620953e.bundle.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "runtime~main.a19305643a5f8620953e.bundle.js",
+    "vendors~main.a19305643a5f8620953e.bundle.js",
+    "main.a19305643a5f8620953e.bundle.js"
+  ]
+}
